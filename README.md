@@ -66,4 +66,4 @@ _Домены_: JmjC, JmjN, TUDOR, PHD
 
 ### Heatmap
 
-![Heatmap]()
+![Heatmap](tables/heatmap.png)
