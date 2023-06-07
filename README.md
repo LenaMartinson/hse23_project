@@ -26,3 +26,16 @@ _Домены_: JmjC, JmjN, TUDOR, PHD
 
 ![Домены](tables/Domeins.png)
 
+## Выравнивания гистонов
+
+### H2A
+![H2A](histones_alignment/H2A.png)
+
+### H2B
+![H2B](histones_alignment/H2B.png)
+
+### H3
+![H3](histones_alignment/H3.png)
+
+### H4
+![H4](histones_alignment/H4.png)
