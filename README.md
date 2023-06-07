@@ -44,6 +44,8 @@ _Домены_: JmjC, JmjN, TUDOR, PHD
 
 ## Таблички
 
+Ссылка на colab с ними https://colab.research.google.com/drive/1U3zkIWSJkBnlBHgwfa-fKIIKUMRcZA2Q?usp=sharing
+
 ### E-value
 
 |      |human   |mouse   |zebrafish|drosophila|c.elegans|ciliate |yeast   |methanocaldococcus|thermococcus|e.coli|tuberculosis|
