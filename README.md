@@ -42,6 +42,12 @@ _Домены_: JmjC, JmjN, TUDOR, PHD
 ### H4
 ![H4](histones_alignment/H4.png)
 
+### Вывод
+
+В H3 и H4 все последовательности практически идентичны, поэтому они точно кодируют один и тот же ген. 
+
+Для H2A и H2B много похожих последовательностей, но есть и немного отличающиеся. Возможно это связано с тем, что функции похожие, но псоледовательности разные.
+
 ## Таблички
 
 Ссылка на colab с ними https://colab.research.google.com/drive/1U3zkIWSJkBnlBHgwfa-fKIIKUMRcZA2Q?usp=sharing
@@ -71,3 +77,5 @@ _Домены_: JmjC, JmjN, TUDOR, PHD
 ![Heatmap](tables/heatmap.png)
 
 ## Выводы
+
+
